@@ -240,4 +240,4 @@ Check your microphone, internet connection, permissions, and background noise.
 
 ## 📄 License
 
-Add a `LICENSE` file to specify how others may use, modify, and distribute this project.
+This project is licensed under the [MIT License](LICENSE).
